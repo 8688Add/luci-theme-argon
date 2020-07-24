@@ -6,7 +6,7 @@
 [4]: https://github.com/jerrykuku/luci-theme-argon/pulls
 [5]: https://img.shields.io/badge/Issues-welcome-brightgreen.svg
 [6]: https://github.com/jerrykuku/luci-theme-argon/issues/new
-[7]: https://img.shields.io/badge/release-v2.1-blue.svg?
+[7]: https://img.shields.io/badge/release-v1.6.1-blue.svg?
 [8]: https://github.com/jerrykuku/luci-theme-argon/releases
 [9]: https://img.shields.io/github/downloads/jerrykuku/luci-theme-argon/total
 [10]: https://img.shields.io/badge/Contact-telegram-blue
@@ -49,12 +49,20 @@ wget --no-check-certificate https://github.com/jerrykuku/luci-theme-argon/releas
 opkg install luci-theme-argon_1.5.1-01-20200331_all.ipk
 ```
 
-## Update log 2020.07.03 [18.06]
-1. v1.5.3 change header display style.
-2. v1.5.3 change page title display style.
-3. v1.5.3 fix display bug in diagnostics.
-4. v1.5.3 Reduce the background image to one.
+## Update log 2020.07.24 [18.06] V1.6.1 
 
+- New login theme, Request background imge from bing.com, Auto change everyday. 
+- New theme icon 
+- Add more menu category  icon 
+- Fix font-size and padding margin 
+- Restructure css file 
+
+## Screenshots 
+![](/Screenshots/pc/screenshot1.jpg)
+![](/Screenshots/pc/screenshot2.jpg)
+![](/Screenshots/pc/screenshot3.jpg)
+![](/Screenshots/phone/Screenshot_1.jpg)
+![](/Screenshots/phone/Screenshot_2.jpg)
 
 ## Thanks to 
 luci-theme-material: https://github.com/LuttyYang/luci-theme-material/

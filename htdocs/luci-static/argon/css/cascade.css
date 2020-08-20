@@ -562,6 +562,8 @@ footer a {
   -moz-osx-font-smoothing: grayscale;
   position: absolute;
   left: 0.8rem;
+  content: "\e915";
+  color: #5e72e4;
 }
 .main .main-left .nav li.slide .menu::after {
   position: absolute;
@@ -3188,6 +3190,9 @@ input[name="nslookup"] {
     background-color: transparent;
     outline: 0;
     box-shadow: none;
+  }
+  select {
+    background-color: #1e1e1e !important;
   }
   #cbi-dropbear h2,
   #cbi-dropbear .cbi-map-descr,
